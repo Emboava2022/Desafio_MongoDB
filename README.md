@@ -25,4 +25,6 @@ Aqui temos um exemplo de banco de dados relacional, que ainda é o mais utilizad
                                                                                                                                      
 Aqui temos um exemplo de banco de dados não relacional.
                                                                                                                                                                          <img src='https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRUMhOx52L91a2__-uccnYa2Jk_Pbk_hSqKNw&usqp=CAU' alt='My dados logo2'/>                                                                                             
+Temos alguns dos bancos de dados não relacionais mais utilizados. 
 
+<img src='https://miro.medium.com/max/640/0*bvHfMwYpB6E572a7.jpg' alt='My logo NoSQL'/>
