@@ -15,3 +15,14 @@ Dentro do cenário do SQL podemos efetuar alterações nos dados, modificações
 
 <img src='https://fia.com.br/wp-content/uploads/2019/01/engenharia-de-dados-o-que-e-big-data.jpg' alt='My big data logo'/>
 
+As empresas ainda estão aprendendo a lidar com os dados. Os dados são um mina de informações e que se transformam em grandes negócios. 
+Por este motivo que a engenharia de dados é tão importante tanto usando um modelo relacional, quanto o modelo não relacional. 
+Sabemos que o modelo relacional trata de dados rigidamente estruturados baseados em tabelas, quanto o modelo não relacional são documentados e permitem que sejam armazenados e recuperados em formatos diferentes das tabelas. 
+
+Aqui temos um exemplo de banco de dados relacional, que ainda é o mais utilizado pelas empresas. 
+
+<img src='https://edisciplinas.usp.br/pluginfile.php/4173796/mod_lesson/page_contents/16239/ESTRUTURA%20BANCO%20RELACIONAL.JPG' alt='My dados logo/>
+                                                                                                                                     
+Aqui temos um exemplo de banco de dados não relacional.
+                                                                                                                                                                         <img src='https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRUMhOx52L91a2__-uccnYa2Jk_Pbk_hSqKNw&usqp=CAU' alt='My dados logo2/>                                                                                             
+
