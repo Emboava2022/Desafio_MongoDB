@@ -9,3 +9,5 @@ Tudo começa a partir de processos de coleta, armazenamento e distribuição dos
 As informações da lista estão em estado bruto, e uma boa maneira de aproveitá-las seria separando os convidados por grupos – um para a família, um para os colegas de trabalho e assim por diante. 📊
 Podemos dizer que o Engenheiro de Dados consegue, separar os dados em uma linguagem da qual pode ser interpretada por todos, facilitando o trabalho de toda equipe. 
 
+<img src='https://arquivo.devmedia.com.br/artigos/destaques/guia/SQL.png' alt='My SQL logo'/>
+
