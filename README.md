@@ -11,3 +11,7 @@ Podemos dizer que o Engenheiro de Dados consegue, separar os dados em uma lingua
 
 <img src='https://arquivo.devmedia.com.br/artigos/destaques/guia/SQL.png' alt='My SQL logo'/>
 
+Dentro do cenário do SQL podemos efetuar alterações nos dados, modificações em tabelas, juntar informações de tabelas, armazenar dados, controlar análises através da querys relacionais, entre outros modelos de relacionamento que há dentro do SQL, além de proporcionar segurança entre tabelas com as chaves primárias e chaves estrangeiras. 
+
+<img src='https://fia.com.br/wp-content/uploads/2019/01/engenharia-de-dados-o-que-e-big-data.jpg' alt='My big data logo'/>
+
