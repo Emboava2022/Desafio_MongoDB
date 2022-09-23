@@ -19,12 +19,22 @@ As empresas ainda estão aprendendo a lidar com os dados. Os dados são um mina 
 Por este motivo que a engenharia de dados é tão importante tanto usando um modelo relacional, quanto o modelo não relacional. 
 Sabemos que o modelo relacional trata de dados rigidamente estruturados baseados em tabelas, quanto o modelo não relacional são documentados e permitem que sejam armazenados e recuperados em formatos diferentes das tabelas. 
 
+Deixo aqui alguns bancos de dados mais utilizados pelas grandes empresas hoje no mercado e com grande demanda também pelos serviços. 
+
+<img src='https://community.qlik.com/legacyfs/online/166682_bancos-de-dados-relacionais-como-servio-na-nuvem-da-aws-amazon-rds-4-638.jpg' alt='My SQL logo'/>
+
 Aqui temos um exemplo de banco de dados relacional, que ainda é o mais utilizado pelas empresas. 
 
 <img src='https://edisciplinas.usp.br/pluginfile.php/4173796/mod_lesson/page_contents/16239/ESTRUTURA%20BANCO%20RELACIONAL.JPG' alt='My dados logo'/>
                                                                                                                                      
 Aqui temos um exemplo de banco de dados não relacional.
-                                                                                                                                                                         <img src='https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRUMhOx52L91a2__-uccnYa2Jk_Pbk_hSqKNw&usqp=CAU' alt='My dados logo2'/>                                                                                             
+                                                                                                                                                                         <img src='https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRUMhOx52L91a2__-uccnYa2Jk_Pbk_hSqKNw&usqp=CAU' alt='My dados logo2'/>                                 
+                                                                                                                                                                         
+                                                                                                                                                                         
 Temos alguns dos bancos de dados não relacionais mais utilizados. 
 
 <img src='https://miro.medium.com/max/640/0*bvHfMwYpB6E572a7.jpg' alt='My logo NoSQL'/>
+
+
+Hoje o que difere a o uso do banco relacional com o não relaciona para a engenharia de dados, é o capital de dados que a empresa possui, como o seu volume, afinal o custo de um banco para o outro tem algumas diferenças. Toda demanda deve ser bem analisada antes de qualquer manipulação dos dados, por isso há uma gama de profissionais com diversos skills para complementar o trabalho um do outro. 
+
